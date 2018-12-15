@@ -1,5 +1,5 @@
 # cool-game
 Uses Observer and Strategy design patterns.
 
-Strategy patterns include the "Behavior" interfaces that make adding new defenses or attack methods
+Strategy patterns include the "Behavior" interfaces that make adding new defenses or attack methods easier and
 without having to make changes to existing code. 
